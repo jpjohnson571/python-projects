@@ -1,4 +1,4 @@
-#Append CSV File
+### Append CSV File
 
  This program is quite simple and its purpose is to append the following:
 	'https://spscommerce.atlassian.net/browse/' to any column specified by the user.
@@ -22,6 +22,6 @@ $ python setup.py py2exe
 ```
 This will create the necessary distro folder with your Main.exe
   
-###Author
+### Author
   
   jpjohnson571
